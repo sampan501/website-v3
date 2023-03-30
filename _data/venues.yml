@@ -1,0 +1,11 @@
+"Anal. Chem.":
+  url: https://pubs.acs.org/journal/ancham
+  color: "#325ca0"
+
+"arXiv":
+  url: https://arxiv.org/
+  color: "#a42b25"
+
+"JCGS":
+  url: https://www.tandfonline.com/journals/ucgs20
+  color: "#2b6daf"
